@@ -1,1 +1,3 @@
-nltk
+nltk==3.4.1
+bioservices==1.6.0
+
