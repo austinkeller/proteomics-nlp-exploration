@@ -1,3 +1,4 @@
 nltk==3.4.1
 bioservices==1.6.0
-
+xgboost==0.82
+tqdm==4.32.1
