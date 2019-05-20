@@ -4,5 +4,5 @@
 .Rhistory
 .DS_Store
 kill-container*
-raw/glove.840B.300d.txt
-raw/glove.840B.300d.zip
+data/external/glove.840B.300d.txt
+data/external/glove.840B.300d.zip
