@@ -1,5 +1,8 @@
 # Proteomics NLP Exploration
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/austinkeller/proteomics-nlp-exploration/blob/master/notebook.ipynb
+)
+
 Exploring classification of proteomics literature and repository metadata using NLP.
 
 Start at the [notebook](notebook.ipynb) to view the results of the project.
