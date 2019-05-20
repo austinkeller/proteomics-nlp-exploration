@@ -1,13 +1,15 @@
-# proteomics nlp exploration
+# Proteomics NLP Exploration
 
-Exploring classification of proteomics literature and repository metadata using NLP
+Exploring classification of proteomics literature and repository metadata using NLP.
+
+Start at the [notebook](notebook.ipynb) to view the results of the project.
 
 ## Project Organization
 
     ├── LICENSE
     ├── build.py           <- luigi workflow with classes like 'Train' or 'Data' as build targets
     ├── README.md          <- The top-level README for developers using this project.
-    ├── notebook.py        <- The primary Jupyter notebook for documenting the analysis.
+    ├── notebook.ipynb     <- The primary Jupyter notebook for documenting the analysis.
     ├── data
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
