@@ -5,7 +5,7 @@
 
 Exploring classification of proteomics literature and repository metadata using NLP.
 
-Start at the [notebook](notebook.ipynb) to view the results of the project.
+Start at the [notebook](notebook.ipynb) to view the results of the project or use the "Open in Colab" button above to start in interactive view.
 
 ## Project Organization
 
