@@ -1,5 +1,5 @@
 
-FROM jupyter/datascience-notebook:83ed2c63671f
+FROM jupyter/tensorflow-notebook:abdb27a6dfbb
 
 
 MAINTAINER Austin Keller <austin474@gmail.com>
